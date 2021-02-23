@@ -66,7 +66,7 @@ public class Main extends PApplet {
 		}
 	}
 	
-	//Cambio git
+	// Tercer cambio
 	private void removeRects() {
 		for (int i = 0; i < listaCuadrados.size(); i++) {
 			if(listaCuadrados.get(i).getPosY() < -listaCuadrados.get(i).getTamY()/2 &&
